@@ -1,0 +1,16 @@
+{
+  "name": "esedur",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "5.4.2"
+  },
+  "dependencies": {
+    "@types/object.groupby": "^1.0.3",
+    "discord.js": "^14.14.1",
+    "object.groupby": "^1.0.2"
+  }
+}
